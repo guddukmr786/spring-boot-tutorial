@@ -4,73 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0283549-1310-4bda-9405-90dcbcc399cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-spring-boot-overview-demo/mycoolapp/src/test/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/.idea/02-spring-boot-devtool-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-spring-boot-devtool-demo/mycoolapp/src/test/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/02-spring-actuator-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/02-spring-boot-devtool-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03-spring-actuator-demo/mycoolapp/src/test/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04-command-line-demo/src/test/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/src/main/java/com/luv2code/springboot/demo/mycoolapp/rest/FunRestController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05-custome-property-demo/src/test/java/com/luv2code/springboot/demo/mycoolapp/MycoolappApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="b0283549-1310-4bda-9405-90dcbcc399cf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
