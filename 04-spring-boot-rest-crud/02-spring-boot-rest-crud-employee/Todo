@@ -1,0 +1,24 @@
+1. Setup Database dev env
+2. Create spring boot project using spring initializer
+3. Get list of employees
+4. Add a new employee
+5. Update an existing employee
+7. Delete an existing employee
+
+
+//Application Architecture
+Employee Rest Controller <==> Employee service <==> Employee DAO <==> Database
+
+Setup 1: Build a DAO implementation
+
+//DEVELOPMENT PROCESS
+1. Update db configs in application.properties
+2. Create employee entity
+3. Create DAO interface
+4. Create DAO implementation
+5. Create Rest Controller to use DAO
+
+//Implement service layer between controller and DAO
+1. Define service interface
+2. Define service implementation
+    a). Inject the EmployeeDAO
